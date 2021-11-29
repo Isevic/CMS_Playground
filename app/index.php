@@ -71,7 +71,6 @@
 
 
         } else {
-            $tralaal = "opsasa";
 
         $count  = ceil($count /$per_page);
 
